@@ -1,0 +1,179 @@
+.b-brand img{
+ width: 85%;
+}
+.pc-sidebar .pc-caption {
+ color: #ffffff;
+ display: block;
+ padding: 15px 24px 10px;
+ letter-spacing: 0.07em;
+ text-transform: initial;
+ font-size: 13px;
+ font-weight: 600;
+ text-align: center;
+ border-bottom:1px solid #ffffff1f;
+}
+.sidebar_bottom_text{
+ padding: 20px 26px;
+}
+.sidebar_bottom_text p{
+color: #fff;
+}
+.pc-sidebar .pc-link {
+ padding: 20px 30px;
+}
+.bg_custom{
+background-color:#8cbd3f;
+}
+.text-custom{
+ color:#8cbd3f ;
+}
+.color-white{
+ color: #fff;
+}
+.add_fund_area{
+ padding-right: 10px;
+}
+.area_bottom_texteds{
+padding-top: 20px;
+}
+.area_bottom_texteds p{
+ margin-bottom: 0;
+}
+.area_bottom_texteds p strong{
+ font-style: italic;
+ font-weight: bold;
+}
+.area_bottom_texteds p span{
+color: red;
+}
+.middel-font label{
+ font-size: 24px;
+}
+.area_text_bar h3{
+ text-align: center;
+ color: #8cbd3f;
+}
+.areas_flex{
+ display: flex;
+ justify-content: space-between;
+}
+.cancel_checker{
+text-align: right;
+}
+.cancel_checker a{
+ border: 1px solid red;
+ color: red;
+ padding: 5px 9px;
+ border-radius: 30px;
+}
+.history_wrappers_text p{
+padding-top: 10px;
+}
+.history_button{
+ text-align: right;
+}
+.table_top_text{
+ font-size: 24px !important;
+}
+.card-header-flex-button{
+ display: flex;
+ align-items: center;
+ justify-content: space-between;
+}
+.info_from{
+ background-color: #f7f7f7;
+ padding: 10px 20px;
+}
+.info_from p{
+ margin-bottom: 5px;
+}
+.info_from p strong{
+ padding-right: 5px;
+}
+#exampleFormControlTextarea1{
+ margin-top: 30px;
+}
+.arae-margin-bottoms{
+ margin-bottom: 30px;
+}
+.qr-first-text{
+ font-size: 20px;
+ color: red;
+}
+.btc-text{
+ text-align: center;
+ padding-top: 30px;
+ font-size: 24px;
+}
+.btc-text span{
+ cursor: pointer;
+}
+.pay-button{
+ position: relative;
+ text-align: center;
+}
+.pay-button img{
+ width: 19%;
+ position: absolute;
+ left: -14px;
+ top: 4px;
+}
+.pay-button button{
+ position: relative;
+}
+.qr-text{
+text-align: center;
+}
+.qr-text small{
+ margin-top:20px;
+ display: block;
+}
+.qr-bottom{
+ padding-top: 40px;
+ text-align: center;
+}
+.qr-bottom p{
+ margin-bottom: 0;
+}
+.qr-img img{
+ width: 100%;
+}
+.footer-text{
+ text-align: center;
+}
+.footer-tex{
+ margin-left: 280px;
+}
+.qr-code-wrapper{
+ padding: 200px 0;
+}
+.qr-heading{
+ padding-bottom: 20px;
+}
+@media (max-width: 768px) {
+.areas_flex{
+ display: inherit;
+}}
+@media (max-width:1025px) {
+
+ .footer-tex {
+  margin-left: 0;
+}
+}
+@media (max-width: 1199px) {
+ .pay-button img{
+  display: none;
+ }
+ .footer-tex {
+  padding-top: 70px;
+}
+}
+@media (max-width:600px) {
+.ccv_check_header h2{
+ font-size: 20px;
+ padding-bottom: 20px;
+}
+.cancel_checker{
+ margin: 30px 0;
+}
+}
